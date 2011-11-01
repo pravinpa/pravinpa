@@ -1,0 +1,8 @@
+
+http://mercurial.selenic.com/downloads/
+
+http://hginit.com/00.html
+
+http://en.wikipedia.org/wiki/Mercurial
+
+http://wintermuteblog.blogspot.com/2009/03/mercurial-vs-subversion.html
